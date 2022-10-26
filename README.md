@@ -6,6 +6,13 @@ docomoのダサい絵文字を抹消することが目的。
 
 Galaxy S22
 
+## Dockerインストール
+起動しているPCがWindowsなら  
+https://docs.docker.jp/docker-for-windows/install.html
+
+起動しているPCがUbuntuなら  
+https://docs.docker.com/engine/install/ubuntu/
+
 ## Docker実行
 ビルド環境を用意するのが面倒なので、Dockerで用意した。
 以下を実行する。devcontainerを使っている人はそのままGUI操作で開いてよい。
